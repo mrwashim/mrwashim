@@ -7,6 +7,6 @@
 * 👯 I’m looking to collaborate on Frontend and React.js projects
 * 🤔 I’m looking for help with advanced React concepts, API integration, and building real-world applications
 * 💬 Ask me about HTML, CSS, JavaScript, React.js, responsive web design, and Git/GitHub
-* 📫 How to reach me: [washimakrammd80@gmail.com/ LinkedIn:]
+* 📫 How to reach me: [washimakrammd80@gmail.com/ LinkedIn: https://www.linkedin.com/in/md-washim-akram-098a09259/]
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I enjoy turning ideas into websites and learning new technologies by building projects.
